@@ -1,2 +1,2 @@
 # Genoforge :leaves:
-Genetic Algorithms for Intelligent Agents
+Genetic Algorithms library
