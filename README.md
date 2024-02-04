@@ -1,2 +1,2 @@
-# Genoforge :leaves:
+# Genoforge
 Genetic Algorithms library
