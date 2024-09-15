@@ -9,6 +9,8 @@ setup(
     author='Jorge Lizcano',
     author_email='jorgelizgo@gmail.com',
 
+    long_description_content_type = 'text/markdown',
+
     packages=find_packages(include=['genoforge']),
 
     install_requires=['numpy'],
