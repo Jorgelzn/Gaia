@@ -6,6 +6,12 @@ Bio-Inspired Algorithms library
 
 ## Installation Guide
 
+#### Install using Pip
+
+`pip install genoforge`
+
+#### Install from source
+
 Download from source or clone repository:
 
 `git clone https://github.com/Jorgelzn/Genoforge.git`
