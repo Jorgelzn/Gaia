@@ -1,24 +1,18 @@
 from setuptools import setup, find_packages
 
-from genoforge import __version__
 
 setup(
     name='genoforge',
-    version=__version__,
+    version='0.0.1',
 
     url='https://github.com/Jorgelzn/Genoforge',
     author='Jorge Lizcano',
     author_email='jorgelizgo@gmail.com',
 
-    packages=find_packages(exclude=['tests', 'tests.*']),
+    packages=find_packages(include=['genoforge']),
 
-    install_requires=[
-        'numpy',
-    ],
-    extras_require = {
-        'dev': [
-            'pytest>=4',
-            'pytest-cov>=2'
-        ],
-    }
+    install_requires=['numpy'],
+    setup_requires=['pytest-runner'],
+    tests_require=['pytest>=4'],
+    test_suite='tests'
 )
