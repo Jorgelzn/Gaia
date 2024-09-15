@@ -9,8 +9,8 @@ setup(
     author='Jorge Lizcano',
     author_email='jorgelizgo@gmail.com',
 
-    long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
+    long_description=open('README.md').read(),
 
     packages=find_packages(include=['genoforge']),
 
