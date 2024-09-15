@@ -25,13 +25,10 @@ This family of algorithms perform search by creating an initial population, sele
 
 #### Poblation Generation
 
-``
 #### Natural Selection
-
-``
 
 #### Descendants
 
-```
+
 
 
