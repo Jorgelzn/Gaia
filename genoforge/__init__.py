@@ -1,2 +1,1 @@
-import fitness
-
+from genoforge import fitness as fitness
