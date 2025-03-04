@@ -1,1 +1,2 @@
-from genoforge import fitness as fitness
+from genoforge import metrics
+from genoforge import selection
