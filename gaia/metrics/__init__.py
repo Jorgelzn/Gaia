@@ -1,1 +1,1 @@
-from genoforge.metrics import semantic
+from gaia.metrics import semantic

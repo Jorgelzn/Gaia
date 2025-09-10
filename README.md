@@ -1,7 +1,7 @@
 # Gaia
 Implementation of Nature-Inspired Optimization Algorithms 
 
-<img src="gaia.jpg" alt="drawing" width="100"/>
+<img src="gaia.jpg" alt="drawing" width="200"/>
 
 ## Installation Guide
 

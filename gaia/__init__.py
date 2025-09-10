@@ -1,2 +1,2 @@
-from genoforge import metrics
-from genoforge import selection
+from gaia import metrics
+from gaia import selection

@@ -1,5 +1,5 @@
 import numpy as np
-from genoforge import selection
+from gaia import selection
 
 def test_tournamet():
     def check(number: int):

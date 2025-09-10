@@ -1,4 +1,4 @@
-from genoforge.metrics.semantic import levenshtein_distance
+from gaia.metrics.semantic import levenshtein_distance
 
 
 def test_local_import():

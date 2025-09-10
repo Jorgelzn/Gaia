@@ -1,4 +1,4 @@
-from genoforge import metrics
+from gaia import metrics
 
 
 def test_module_import():

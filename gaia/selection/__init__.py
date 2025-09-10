@@ -1,1 +1,1 @@
-from genoforge.selection import tournament
+from gaia.selection import tournament

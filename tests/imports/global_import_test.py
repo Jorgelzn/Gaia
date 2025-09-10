@@ -1,4 +1,4 @@
-import genoforge
+import gaia
 
 
 def test_global_import():
