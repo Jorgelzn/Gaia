@@ -1,14 +1,9 @@
-# Genoforge
-Bio-Inspired Algorithms library
+# Gaia
+Implementation of Nature-Inspired Optimization Algorithms 
 
-<img src="bees.gif" alt="drawing" width="200"/>
-
+<img src="gaia.jpg" alt="drawing" width="100"/>
 
 ## Installation Guide
-
-#### Install using Pip
-
-`pip install genoforge`
 
 #### Install from source
 
