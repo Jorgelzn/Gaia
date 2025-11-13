@@ -24,11 +24,6 @@ The library include multiple algorithms for performing biologically inspired heu
 
 This family of algorithms perform search by creating an initial population, selecting the best individuals, and generating the next generation. This process iterates over time.
 
-#### Poblation Generation
-
-#### Natural Selection
-
-#### Descendants
 
 
 
