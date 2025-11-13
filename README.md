@@ -11,6 +11,10 @@ Download from source or clone repository:
 
 `git clone https://github.com/Jorgelzn/Genoforge.git`
 
+Install dependencies
+
+`pip install -r requirements.txt`
+
 Install using setup.py
 
 `python setup.py install`
